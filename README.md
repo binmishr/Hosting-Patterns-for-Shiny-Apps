@@ -1,0 +1,1 @@
+# Hosting-Patterns-for-Shiny-Apps
